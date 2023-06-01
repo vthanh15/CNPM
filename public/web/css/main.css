@@ -1,0 +1,22 @@
+.hero-1 {
+    position: relative;
+}
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    max-width: 600px;
+}
+.hero-content > p {
+    font-size: 17px;
+}
+.heading {
+    color: #ff7e07;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 50px;
+}
+.post-content > p > img{
+    width: 100%;
+}
